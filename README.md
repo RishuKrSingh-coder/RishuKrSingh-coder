@@ -21,11 +21,13 @@ I love solving problems, building projects, and exploring new concepts. Here, yo
 
 ---
 
-## 📫 **How to Reach Me**:
-- ✉️ Email: singhkumarrishuu@gmail.com
-- 🐦 X: rishuksingh | https://x.com/rishuksingh
-- 💼 LinkedIn: Rishu Kr. Singh | https://www.linkedin.com/in/rishukrsingh/
-- 🌐 Instagram: rishukr.singh | https://www.instagram.com/rishukr.singh?igsh=MWc3ajIxeHZ1MXF4bw%3D%3D  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rishuksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishuksingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishukrsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishukrsingh/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rishukr.singh?igsh=mwc3ajixehz1mxf4bw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rishukr.singh?igsh=mwc3ajixehz1mxf4bw%3d%3d" height="30" width="40" /></a>
+</p>
+
 
 ---
 
