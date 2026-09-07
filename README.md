@@ -15,11 +15,6 @@
 Here are some ideas to get you started:
 -->
 
-<h2 align="center">
-    <b>👀 Profile Views</b><br/>
-    <img src="https://profile-counter.glitch.me/RishuKrSingh-coder/count.svg"/>
-</h2>
-
 - 🧑🏻‍💻 I'm a nub Frontend Developer documenting my work and projects @ via [GitHub](https://github.com/RishuKrSingh-coder)
 - 🎒 I'm pursuing my studies as a Computer Science Engineer @ Indian Institute of Technology Patna (IITP)
 - 🌟 Love making interactive websites in Web2 
@@ -58,38 +53,18 @@ Here are some ideas to get you started:
 ---
 ### Operating Systems (OS)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<!-- Github Achievements --> 
-<br><br>
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RishuKrSingh-coder&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
-<br><br>
 
-<!-- Github Streaks -->
-<p align="center">
-    <a href="https://git.io/streak-stats">
-      <img align="centre" src="https://streak-stats.demolab.com/?user=RishuKrSingh-coder&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
-    </a>
-</p>
-<!--<img src="/assets/running.webp" align="right" height="204px"/>-->
 
-<!-- Github Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=RishuKrSingh-coder&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
-</a>
+## 📊 GitHub Analytics
 
-<!-- Most Used Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuKrSingh-coder&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
-</a>
-
-<!-- Waka Time Stats -->
-<br><br><br><br><br><br><br><br><br><br>
 <div align="center">
-    <a href="https://wakatime.com/share/@RishuKrSingh-coder/a31a316c-7621-4f9a-8d8f-7b41c6b1aaae.svg">
-    <a href="https://wakatime.com/share/@RishuKrSingh-coder/45dd35b5-60ca-41f5-952a-3a44090e4b17.svg">
-    <a href="https://wakatime.com/share/@RishuKrSingh-coder/b796b0a7-075e-4ec3-8ef2-8cb860ace6b0.svg">
-    <a href="https://wakatime.com/share/@RishuKrSingh-coder/6035a213-f4b4-4f41-9838-13c5bbcf5e93.svg">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishuKrSingh-coder&theme=dark&hide_border=true&background=0F0C29&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border_radius=10)
+
+
 </div>
-<br><br>
+
+---
 
 
 <details align="center">
