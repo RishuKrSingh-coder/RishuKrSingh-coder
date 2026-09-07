@@ -5,9 +5,6 @@
 <!--     <b>Yo, I'm Rishu Kr. Singh 🤙</b> -->
 </h1>
 
-<h4 align="center">
-    <b> Creating big impressions with fewer words. 🤍🌻</b>
-</h4>
 
 <!--
 **Rishu Kr. Singh/Rishu Kr. Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,10 +80,6 @@ Here are some ideas to get you started:
 | Participant | Techspectra 2024 | 23th Aug 2024 | Stellar ~ An app for students & faculty to track the students progess. | [Cyfuse IIITD](https://www.instagram.com/p/C-8m3muoyUz/) |
 
 
-<a href="https://github.com/RishuKrSingh-coder/github-readme-activity-graph"><img alt="Rishu Kr. Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=RishuKrSingh-coder&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
-
-<!-- ashutosh00710 -->
-<!--bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF -->
 
 <!-- Footer -->
 <p align="center">
