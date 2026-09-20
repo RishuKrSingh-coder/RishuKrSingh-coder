@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=500&height=70&duration=4000&lines=Yo+wussup+🤙;I'm+Rishu+Kr.+Singh+(+＾◡＾)っ;I'm+a+Developer+🧑🏻‍💻;I'm+a+Lifelong+Learner+🤍;I'm+a+Hodophile+✈️;I'm+a+Shutterbug+📸;"/>
-<!--     <b>Yo, I'm Rishu Kr. Singh 🤙</b> -->
+<!----     <b>Yo, I'm Rishu Kr. Singh 🤙</b> ---->
 </h1>
 
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)
 
 ---
-### AI Engineering & Automation tools
+### AI Engineering & Automation Tools
 ![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)
 
 ---
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <details align="center">
   <summary> 
-    <h3>👨🏻‍💻 Hackathon Expirence</h3>
+    <h3>👨🏻‍💻 Hackathon Expirences</h3>
   </summary>
 <br>
 
