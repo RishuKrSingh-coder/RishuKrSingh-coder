@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- 🕵️‍♂️ Always looking for Freelancing job opportunities -->
 
 <details>
-<summary align="center" style="list-style: none; cursor: pointer;"><h2>-----      🛠️  Tech Stacks That I've Used so far.. ⚙️      -----</h2></summary>
+<summary align="center" style="list-style: none; cursor: pointer;"><h2>-----      🛠️  Tech Stacks That I've Used so far...⚙️      -----</h2></summary>
 
 ### Languages
 `English` <br>
