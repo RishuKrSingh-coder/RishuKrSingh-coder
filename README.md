@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
 
-| Organized | Hack4Brahmaputra | 9th - 10th Oct 2025 | Northeast India's Biggest Hackathon | https://www.linkedin.com/feed/update/urn:li:activity:7385369344559570944/
+| Organized | Hack Days Nagpur | 2nd May 2026 | Hack4Brahma presents Hack Days Nagpur | https://www.linkedin.com/feed/update/urn:li:activity:7450486976782290944/ |
+| Organized | Hack4Brahmaputra | 9th - 10th Oct 2025 | Northeast India's Biggest Hackathon | https://www.linkedin.com/feed/update/urn:li:activity:7385369344559570944/ |
 
 
 
