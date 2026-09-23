@@ -66,12 +66,7 @@ Here are some ideas to get you started:
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
-| Organising | Haack-Ar-Anya | 15th Nov 2025 | Jharkhand India's 24 Hours Premiere Hackathon | (https://www.hackaranya.live/) |
-| Organising | Hack4Brahma | 10th Oct 2025 | Northeast India's Biggest Hackathon | (https://www.hack4brahma.live/) |
-| Organising | Hack4Maha | 30th Aug 2025 | Central India's 24 Hours Premiere Hackathon | (https://www.hack4maha.live/) |
-| Participant | UI/UX IITD | 5th Oct 2024 | Sustainability carbon footprint tracking and reduction app | [IITD](.) |
-| Top 20/3000 | Code4Cause 2.0 | 7th Sep 2024 | Sports Sphere ~ A platform for sports person to connect with new members and get buddy for their sport. | [Ecell NSUT * HwI](https://www.instagram.com/p/C_VohXjJVED/) |
-| Participant | Techspectra 2024 | 23th Aug 2024 | Stellar ~ An app for students & faculty to track the students progess. | [Cyfuse IIITD](https://www.instagram.com/p/C-8m3muoyUz/) |
+| Organized | Hack4Brahmaputra | 9th - 10th Oct 2025 | Northeast India's Biggest Hackathon (https://www.linkedin.com/feed/update/urn:li:activity:7385369344559570944/) |
 
 
 
