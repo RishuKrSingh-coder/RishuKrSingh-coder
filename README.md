@@ -67,13 +67,13 @@ Here are some ideas to get you started:
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
 | Organized | Hack Days Arunachal Pradesh | 3rd Oct 2026 | Hack4Brahma presents Hack Days Arunachal Pradesh | (Loading...) |
-| Organized | Hack Days Solan | 12th Sep 2026 | Hack4Brahma presents Hack Days Solan | (https://www.linkedin.com/feed/update/urn:li:activity:7508386063388934144/) |
-| Organized | Hack Days Noida | 26th Aug 2026 | Hack4Brahma presents Hack Days Noida | (https://www.linkedin.com/feed/update/urn:li:activity:7491044886314397697/) |
-| Organized | Hack Days Buxar | 25th Aug 2026 | Hack4Brahma presents Hack Days Buxar | (https://www.linkedin.com/feed/update/urn:li:activity:7499885398316453888/) |
-| Organized | Hack Days Nagaland | 8th Aug 2026 | Hack4Brahma presents Hack Days Nagaland | (https://www.linkedin.com/feed/update/urn:li:activity:7492310425036902400/) |
-| Organized | Hack Days Nashik | 18th Jul 2026 | Hack4Brahma presents Hack Days Nashik | (https://www.linkedin.com/feed/update/urn:li:activity:7489579532199530496/) |
-| Organized | Hack Days Patna | 6th Jun 2026 | Hack4Brahma presents Hack Days Patna | (https://www.linkedin.com/feed/update/urn:li:activity:7462736720019480576/) |
-| Organized | Hack Days Guwahati | 9th May 2026 | Hack4Brahma presents Hack Days Guwahati | (https://www.linkedin.com/feed/update/urn:li:activity:7459695754278936576/) |
+| Organized | Hack Days Solan | 12th Sep 2026 | Hack4Brahma presents Hack Days Solan | https://www.linkedin.com/feed/update/urn:li:activity:7508386063388934144/ |
+| Organized | Hack Days Noida | 26th Aug 2026 | Hack4Brahma presents Hack Days Noida | https://www.linkedin.com/feed/update/urn:li:activity:7491044886314397697/ |
+| Organized | Hack Days Buxar | 25th Aug 2026 | Hack4Brahma presents Hack Days Buxar | https://www.linkedin.com/feed/update/urn:li:activity:7499885398316453888/ |
+| Organized | Hack Days Nagaland | 8th Aug 2026 | Hack4Brahma presents Hack Days Nagaland | https://www.linkedin.com/feed/update/urn:li:activity:7492310425036902400/ |
+| Organized | Hack Days Nashik | 18th Jul 2026 | Hack4Brahma presents Hack Days Nashik | https://www.linkedin.com/feed/update/urn:li:activity:7489579532199530496/ |
+| Organized | Hack Days Patna | 6th Jun 2026 | Hack4Brahma presents Hack Days Patna | https://www.linkedin.com/feed/update/urn:li:activity:7462736720019480576/ |
+| Organized | Hack Days Guwahati | 9th May 2026 | Hack4Brahma presents Hack Days Guwahati | https://www.linkedin.com/feed/update/urn:li:activity:7459695754278936576/ |
 | Organized | Hack Days Nagpur | 2nd May 2026 | Hack4Brahma presents Hack Days Nagpur | https://www.linkedin.com/feed/update/urn:li:activity:7450486976782290944/ |
 | Organized | Hack4Brahmaputra | 9th - 10th Oct 2025 | Northeast India's Biggest Hackathon | https://www.linkedin.com/feed/update/urn:li:activity:7385369344559570944/ |
 
