@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧑🏻‍💻 I'm a nub Frontend Developer documenting my work and projects via [GitHub](https://github.com/RishuKrSingh-coder)
-- 🎒 I'm pursuing my studies as a Computer Science Engineer @ Indian Institute of Technology Patna (IITP)
+- 🎒 I'm pursuing my studies as a Computer Science Engineer @ Indian Institute of Technology Patna
 - 🌟 Love making interactive websites in Web2 
 - 🤔 Currently diving deeper into Web3 & Blockchain technology
 - 💬 How to reach me: [X](https://x.com/rishuksingh) || [Instagram](https://www.instagram.com/rishukr.singh/)
