@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 | Organized | Hack Days Patna | 6th Jun 2026 | Hack4Brahma presents Hack Days Patna | https://www.linkedin.com/feed/update/urn:li:activity:7462736720019480576/ |
 | Organized | Hack Days Guwahati | 9th May 2026 | Hack4Brahma presents Hack Days Guwahati | https://www.linkedin.com/feed/update/urn:li:activity:7459695754278936576/ |
 | Organized | Hack Days Nagpur | 2nd May 2026 | Hack4Brahma presents Hack Days Nagpur | https://www.linkedin.com/feed/update/urn:li:activity:7450486976782290944/ |
-| Organized | Hack4Brahmaputra | 9th - 10th Oct 2025 | Northeast India's Biggest Hackathon | https://www.linkedin.com/feed/update/urn:li:activity:7385369344559570944/ |
+| Organized | Hack4Brahmaputra | 9th & 10th Oct 2025 | Northeast India's Biggest Hackathon | https://www.linkedin.com/feed/update/urn:li:activity:7385369344559570944/ |
 
 
 
